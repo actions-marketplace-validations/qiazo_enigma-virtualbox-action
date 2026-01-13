@@ -8,13 +8,13 @@
     "url": "https://github.com/kjxbyz"
   },
   "private": true,
-  "homepage": "https://github.com/insco-inc/enigma-virtualbox-action",
+  "homepage": "https://github.com/qiazo/enigma-virtualbox-action",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/insco-inc/enigma-virtualbox-action.git"
+    "url": "git+https://github.com/qiazo/enigma-virtualbox-action.git"
   },
   "bugs": {
-    "url": "https://github.com/insco-inc/enigma-virtualbox-action/issues"
+    "url": "https://github.com/qiazo/enigma-virtualbox-action/issues"
   },
   "keywords": [
     "actions"

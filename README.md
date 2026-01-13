@@ -1,9 +1,9 @@
 # Enigma Virtualbox Action
 
-![GitHub Super-Linter](https://github.com/insco-inc/enigma-virtualbox-action/actions/workflows/linter.yml/badge.svg)
-![CI](https://github.com/insco-inc/enigma-virtualbox-action/actions/workflows/ci.yml/badge.svg)
-[![Check dist/](https://github.com/insco-inc/enigma-virtualbox-action/actions/workflows/check-dist.yml/badge.svg)](https://github.com/insco-inc/enigma-virtualbox-action/actions/workflows/check-dist.yml)
-[![CodeQL](https://github.com/insco-inc/enigma-virtualbox-action/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/insco-inc/enigma-virtualbox-action/actions/workflows/codeql-analysis.yml)
+![GitHub Super-Linter](https://github.com/qiazo/enigma-virtualbox-action/actions/workflows/linter.yml/badge.svg)
+![CI](https://github.com/qiazo/enigma-virtualbox-action/actions/workflows/ci.yml/badge.svg)
+[![Check dist/](https://github.com/qiazo/enigma-virtualbox-action/actions/workflows/check-dist.yml/badge.svg)](https://github.com/qiazo/enigma-virtualbox-action/actions/workflows/check-dist.yml)
+[![CodeQL](https://github.com/qiazo/enigma-virtualbox-action/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/qiazo/enigma-virtualbox-action/actions/workflows/codeql-analysis.yml)
 [![Coverage](./badges/coverage.svg)](./badges/coverage.svg)
 
 ## Usage
@@ -16,7 +16,7 @@ steps:
 
   - name: Test Local Action
     id: test-action
-    uses: insco-inc/enigma-virtualbox-action@v1 # Commit with the `v1` tag
+    uses: qiazo/enigma-virtualbox-action@v1 # Commit with the `v1` tag
     with:
       entry: .github
       input: LICENSE
